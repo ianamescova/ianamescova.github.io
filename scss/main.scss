@@ -3,6 +3,7 @@
 
 body {
   padding: 2rem 0;
+    background: red;
 }
 
 // Responsive typography sizes using Bootstrap mixins for the media queries
@@ -37,8 +38,6 @@ html {
 }
 
 .logo {
-    background-color: #ff0000;
     position: absolute;
     top: 200px;
-
 }
