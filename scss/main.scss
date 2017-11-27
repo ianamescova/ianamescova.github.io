@@ -1,9 +1,10 @@
 @import 'custom';
 @import '../node_modules/bootstrap/scss/bootstrap';
 
+
+
 body {
   padding: 2rem 0;
-    background: red;
 }
 
 // Responsive typography sizes using Bootstrap mixins for the media queries
@@ -25,7 +26,7 @@ html {
 
 @include media-breakpoint-up(lg) {
   html {
-    font-size: 28px;
+    font-size: 25px;
   }
 }
 
@@ -35,9 +36,4 @@ html {
   font-size: 1.2rem;
   letter-spacing: .12em;
   opacity: .6;
-}
-
-.logo {
-    position: absolute;
-    top: 200px;
 }

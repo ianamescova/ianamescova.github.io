@@ -1,0 +1,28 @@
+body {
+  background-color: #fafafa;
+}
+
+section {
+	  padding-top:70px;
+    padding-bottom:50px;
+    min-height:100vh;
+}
+
+#section-2 {
+    background: #f7f7f7;
+}
+
+.navbar {
+  background-color: white;
+  height: 2rem;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace;
+}
+
+#presentation {
+  padding-top: 100px;
+  
+}
