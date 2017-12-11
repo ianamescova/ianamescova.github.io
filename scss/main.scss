@@ -3,63 +3,70 @@
 
 
 
+<<<<<<< HEAD
 // body {
 //   padding: 2rem 0;
 //   background-color: #fafafa;
 // }
+=======
+body {
+  padding: 2rem 0;
+  background-color: #fafafa;
+}
+>>>>>>> parent of fe06f4a... Photography, styles
 
 // Responsive typography sizes using Bootstrap mixins for the media queries
-// html {
-//   font-size: 14px;
-// }
-//
-// @include media-breakpoint-up(sm) {
-//   html {
-//     font-size: 16px;
-//   }
-// }
-//
-// @include media-breakpoint-up(md) {
-//   html {
-//     font-size: 20px;
-//   }
-// }
-//
-// @include media-breakpoint-up(lg) {
-//   html {
-//     font-size: 25px;
-//   }
-// }
-//
-// .header-subtle {
-//   @extend .text-warning;
-//   @extend .text-uppercase;
-//   font-size: 1.2rem;
-//   letter-spacing: .12em;
-//   opacity: .6;
-// }
-//
-// section {
-// 	  padding-top:70px;
-//     padding-bottom:50px;
-//     min-height:100vh;
-// }
-//
-// #section-2 {
-//     background: #f7f7f7;
-// }
-//
-// .navbar {
-//   background-color: white;
-//   height: 2rem;
-// }
-//
-// .nav-link {
-//   font-size: 20px;
-//   font-family: 'Inconsolata', monospace;
-// }
-//
-// #presentation {
-//   padding-top: 60px;
-//   font-family: 'Inconsolata', monospace;
-// }
+html {
+  font-size: 14px;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 25px;
+  }
+}
+
+.header-subtle {
+  @extend .text-warning;
+  @extend .text-uppercase;
+  font-size: 1.2rem;
+  letter-spacing: .12em;
+  opacity: .6;
+}
+
+section {
+	  padding-top:70px;
+    padding-bottom:50px;
+    min-height:100vh;
+}
+
+#section-2 {
+    background: #f7f7f7;
+}
+
+.navbar {
+  background-color: white;
+  height: 2rem;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace;
+}
+
+#presentation {
+  padding-top: 60px;
+  font-family: 'Inconsolata', monospace;
+}
