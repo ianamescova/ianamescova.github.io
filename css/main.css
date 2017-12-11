@@ -6255,29 +6255,3 @@ a.text-dark:focus, a.text-dark:hover {
 
 .invisible {
   visibility: hidden !important; }
-<<<<<<< HEAD
-=======
-
-body {
-  padding: 2rem 0; }
-
-html {
-  font-size: 14px; }
-
-@media (min-width: 576px) {
-  html {
-    font-size: 16px; } }
-
-@media (min-width: 768px) {
-  html {
-    font-size: 20px; } }
-
-@media (min-width: 992px) {
-  html {
-    font-size: 28px; } }
-
-.header-subtle {
-  font-size: 1.2rem;
-  letter-spacing: .12em;
-  opacity: .6; }
->>>>>>> parent of fe06f4a... Photography, styles
