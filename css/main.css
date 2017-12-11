@@ -5866,7 +5866,8 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden !important; }
 
 body {
-  padding: 2rem 0; }
+  padding: 2rem 0;
+  background-color: #fafafa; }
 
 html {
   font-size: 14px; }
@@ -5881,9 +5882,29 @@ html {
 
 @media (min-width: 992px) {
   html {
-    font-size: 28px; } }
+    font-size: 25px; } }
 
 .header-subtle {
   font-size: 1.2rem;
   letter-spacing: .12em;
   opacity: .6; }
+
+section {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  min-height: 100vh; }
+
+#section-2 {
+  background: #f7f7f7; }
+
+.navbar {
+  background-color: white;
+  height: 2rem; }
+
+.nav-link {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace; }
+
+#presentation {
+  padding-top: 60px;
+  font-family: 'Inconsolata', monospace; }
